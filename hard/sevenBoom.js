@@ -1,5 +1,6 @@
 
 // Name: Seven Boom!
+// URL: https://edabit.com/challenge/6R6gReGTGwzpwuffD
 
 function sevenBoom(arr) {
 	for (let i = 0; i < arr.length; i++){

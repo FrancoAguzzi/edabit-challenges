@@ -1,5 +1,6 @@
 
 // Name: Get the Century
+// URL: https://edabit.com/challenge/SAdqaWKRpjLfZnGKA
 
 function century(year) {
 	let yearStringified = String(year);

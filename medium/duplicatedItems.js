@@ -1,5 +1,6 @@
 
 // Name: Remove Surrounding Duplicate Items
+// URL: https://edabit.com/challenge/cW5gZqYEv6bszrNSw
 
 function uniqueInOrder(sequence) {
 	let precessor = sequence[0],

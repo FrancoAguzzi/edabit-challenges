@@ -1,5 +1,6 @@
 
 // Name: The Conquering Queen
+// URL: https://edabit.com/challenge/f9Xi45wjDjfD4v4nD
 
 function canCapture([myQueen, opponentsQueen]) {
     let myQueenX = myQueen.substring(0, 1).charCodeAt(0);

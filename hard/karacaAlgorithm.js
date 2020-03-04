@@ -1,5 +1,6 @@
 
 // Name: The Karaca's Encryption Algorithm
+// URL: https://edabit.com/challenge/ccZBsRp6pX869gyqx
 
 function encrypt(word) {
     let reversed = word.split('').reverse().join('');

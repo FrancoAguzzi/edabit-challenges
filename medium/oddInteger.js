@@ -1,5 +1,6 @@
 
 // Name: Find the Odd Integer
+// URL: https://edabit.com/challenge/GaWzhCsGSHcWyGoZh
 
 function findOdd(arr) {
     let timesFound = 0;

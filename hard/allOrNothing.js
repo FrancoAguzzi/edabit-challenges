@@ -1,5 +1,6 @@
 
 // Name: All or Nothing
+// URL: https://edabit.com/challenge/ZYJNYe2tKhG2kb7Sh
 
 function possiblyPerfect(key, answers) {
     let numCorrect = 0,

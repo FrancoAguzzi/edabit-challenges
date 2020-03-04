@@ -1,5 +1,6 @@
 
 // Name: Numbers in Strings
+// URL: https://edabit.com/challenge/eCPim4XcssdZdvs32
 
 function numInStr(arr) {
     let newArr = [];

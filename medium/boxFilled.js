@@ -1,5 +1,6 @@
 
 // Name: Percentage of Box Filled In
+// URL: https://edabit.com/challenge/qYgE5kyLYuRve4Zap
 
 function percentFilled(box) {
     let numO = 0;
