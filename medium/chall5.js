@@ -1,14 +1,21 @@
 
-// Name: Odds vs. Evens
+// Name: Reverse Coding Challenge #1
 
-function oddsVsEvens(num) {
-    let oddTotal = 0;
-    let evenTotal = 0;
-    String(num).split('').forEach((currentNumber) => {
-        (parseInt(currentNumber) % 2 === 0) ? (evenTotal += parseInt(currentNumber)) : (oddTotal += parseInt(currentNumber));
-    })
-    if (oddTotal === evenTotal) return "equal";
-    return (oddTotal > evenTotal) ? "odd" : "even";
+function mysteryFunc(str) {
+    let newStr = "";
+    let currentLetter = str[0]
+    for (let i = 1; i < str.length; i++) {
+        if (!isNaN(str[i])) newStr += currentLetter.repeat(str[i]);
+        else currentLetter = str[i]
+    }
+    return newStr;
 }
 
-oddsVsEvens(44547);
+mysteryFunc("A4B5C2");
+
+
+/* Description:
+
+This is a reverse coding challenge. Normally you're given explicit directions with how to create a function. Here, you must generate your own function to satisfy the relationship between the inputs and outputs.
+
+Your task is to create a function that, when fed the inputs below, produce the sample outputs shown. */

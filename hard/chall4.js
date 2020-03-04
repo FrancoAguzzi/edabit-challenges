@@ -20,3 +20,8 @@ function noDuplicateLetters(phrase) {
 }
 
 noDuplicateLetters("So far, so good.");
+
+
+/* Description:
+
+Given a common phrase, return false if any individual word in the phrase contains duplicate letters. Return true otherwise. */

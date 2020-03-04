@@ -6,3 +6,8 @@ function getDays(date1, date2) {
 }
 
 getDays(new Date('June 14, 2019'), new Date('June 20, 2019'));
+
+
+/* Description:
+
+Create a function that takes two dates and returns the number of days between the first and second date. */
