@@ -13,3 +13,7 @@ function percentFilled(box) {
 
 percentFilled(["#######", "#o oo #", "#######"]);
 
+
+/* Description:
+
+Create a function that calculates what percentage of the box is filled in. Give your answer as a string percentage rounded to the nearest integer. */

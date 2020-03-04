@@ -12,3 +12,8 @@ function hasHiddenFee(prices, t) {
 }
 
 hasHiddenFee(["$2", "$4", "$1", "$8"], "$15");
+
+
+/* Description:
+
+Given an array of prices prices and a "supposed" total t, return true if there is a hidden fee added to the total (i.e. the total is greater than the sum of prices), otherwise return false. */

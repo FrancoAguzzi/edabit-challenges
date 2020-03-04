@@ -11,3 +11,10 @@ function century(year) {
 }
 
 century(1000);
+
+
+/* Description:
+
+Create a function that takes in a year and returns the correct century.
+
+*/

@@ -1,5 +1,5 @@
 
-// Name: 
+// Name: Find the Odd Integer
 
 function findOdd(arr) {
     let timesFound = 0;
@@ -15,3 +15,8 @@ function findOdd(arr) {
 }
 
 findOdd([1, 1, 2, -2, 5, 2, 4, 4, -1, -2, 5]);
+
+
+/* Description:
+
+Create a function that takes an array and finds the integer which appears an odd number of times. */
