@@ -1,5 +1,6 @@
 
 // Name: Oddish vs. Evenish
+// URL: https://edabit.com/challenge/r6TSNwkLZ2DgsoKiH
 
 function oddishOrEvenish(num) {
     let total = 0;

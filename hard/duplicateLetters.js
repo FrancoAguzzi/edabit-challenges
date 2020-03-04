@@ -1,5 +1,6 @@
 
 // Name: Words With Duplicate Letters
+// URL: https://edabit.com/challenge/ztJZiCZeXATC9KDHX
 
 function noDuplicateLetters(phrase) {
     let arr = phrase.split(' ');

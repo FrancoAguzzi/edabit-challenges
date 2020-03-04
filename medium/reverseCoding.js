@@ -1,5 +1,6 @@
 
 // Name: Reverse Coding Challenge #1
+// URL: https://edabit.com/challenge/ifZ3cDoGZN7gNtRWZ
 
 function mysteryFunc(str) {
     let newStr = "";

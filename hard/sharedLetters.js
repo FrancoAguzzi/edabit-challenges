@@ -1,5 +1,6 @@
 
 // Name: Find the Shared Letters between Two Strings
+// URL: https://edabit.com/challenge/33EsK9mQzGGzRkXQT
 
 function sharedLetters(str1, str2) {
     let duplicated = "";

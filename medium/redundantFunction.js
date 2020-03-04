@@ -1,5 +1,6 @@
 
 // Name: A Redundant Function
+// URL: https://edabit.com/challenge/hzxN9bAebBPNqdQto
 
 function redundant(str) {
 	return function red() {

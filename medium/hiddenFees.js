@@ -1,5 +1,6 @@
 
 // Name: No Hidden Fees
+// URL: https://edabit.com/challenge/LSw9Tgs6yMgQ4JfdX
 
 function hasHiddenFee(prices, t) {
     let total = 0
